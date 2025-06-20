@@ -3,5 +3,5 @@ deploy:
     preserveProvider: true
     rotateRevision: true
     update: true
-name: api_teste
-version: 1.0.0
+name: apiteste2
+version: 1.0.2
