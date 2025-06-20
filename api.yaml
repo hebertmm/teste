@@ -1,9 +1,9 @@
 type: api
 version: v4.4.0
 data:
-  name: api_teste
+  name: apiteste
   context: /.
-  version: 1.0.0
+  version: 1.0.1
   provider: admin
   lifeCycleStatus: CREATED
   isRevision: false
